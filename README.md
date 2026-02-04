@@ -50,3 +50,4 @@ The most concerning trend identified is the steady decline in sales over the mon
 In order to provide a true picture of the business, a measures table containing a total of 11 measures was developed.
 
 [Download the Power BI file](https://github.com/Kaynan-create/Strategic-Sales-Audit-Analysis/raw/main/Strategic_Sales_Audit.pbix?raw=true)
+
