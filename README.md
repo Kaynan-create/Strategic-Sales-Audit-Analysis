@@ -51,3 +51,6 @@ In order to provide a true picture of the business, a measures table containing 
 
 [Download the Power BI file](https://github.com/Kaynan-create/Strategic-Sales-Audit-Analysis/raw/main/Strategic_Sales_Audit.pbix?raw=true)
 
+*Authored By:* **Canaan olanipekun**
+
+*Date:* **February 2026**
