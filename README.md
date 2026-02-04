@@ -26,7 +26,8 @@ To guide the design, I focused on five "high-stakes" questions:
   4. Are our returns tied to specific products or specific regions?
   5. Why has sales volume trended downward over the measured period?
 ## 💸 The Revenue Bridge
-The centerpiece of this analysis is the *Revenue Bridge*. It tells the story of our money: We start with a **Gross Sales potential of $123.26M**. However, as we move through the *"Lifecycle"*, we lose *$25.84M to Returns and have $23.5M stuck in Pending*. This leaves us with a **Net Revenue of $73.92M**. This bridge visualizes the *"leakage"* that would otherwise be hidden in a standard profit-and-loss statement.
+The centerpiece of this analysis is the *Revenue Bridge*. It tells the story of our money flow. We start with a **Gross Sales potential of $123.26M**. However, as we move through the *"Lifecycle"*, we lose *$25.84M to Returns and have $23.5M stuck in Pending*. This leaves us with a **Net Revenue of $73.92M**. This bridge visualizes the *"leakage"* that would otherwise be hidden in a standard profit-and-loss statement.
+![Revenue Bridge Preview](Revenue_Flow.png)
 ## ✨ Key Insights
   1. **The 20% Return Wall:** I discovered that both Furniture and Accessories have a near-identical 20% return rate. This suggests the issue isn't the product type, but perhaps a shipping or "expectation" gap common to the entire business.
   2. **The "Invisible" Giant:** *"Unassigned"* sales represent $15.2M. If this were a person, they would be our 3rd best Sales Rep. This is a massive data-governance failure.
