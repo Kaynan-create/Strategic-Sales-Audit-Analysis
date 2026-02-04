@@ -48,4 +48,5 @@ The most concerning trend identified is the steady decline in sales over the mon
 ![Sales Performance Dashboard](Sales_Dashboard_Design.jpg)
 ## Technical Appendix
 In order to provide a true picture of the business, a measures table containing a total of 11 measures was developed.
-[Download the Power BI file here(.pbix)]
+
+[Download the Power BI file]
